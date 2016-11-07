@@ -1,0 +1,4 @@
+{
+    "env": { "GOPATH": "$HOME/go", "GOROOT": "/usr/local/go" },
+    "ipc_timeout": 0.1,
+}

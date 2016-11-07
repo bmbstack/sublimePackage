@@ -1,0 +1,251 @@
+
+** 2016-11-07 11:01:49.453110 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"", InstallSuffix:""}
+
+** 2016-11-07 11:58:00.986729 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2016-11-07 11:59:36.022524 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:36.167744 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:36.449138 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:36.590286 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:36.808840 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:36.941450 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:37.225155 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+
+** 2016-11-07 11:59:37.664326 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "github.com/bmbstack/backend-math/models"
+Gocode env: gocode.margoEnv{LibPath:"/Users/wangming/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"", GOPATH:"/Users/wangming/go", InstallSuffix:""}
+
+** 2016-11-07 12:00:42.289976 **:
+GsComplete: Blocking call(gocode_complete) aborted: Install is not done
+--------------------------------
+Gocode pkg: "github.com/bmbstack/backend-math/models"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/wangming/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/wangming/go", InstallSuffix:""}
+
+** 2016-11-07 12:00:52.145320 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:00:53.231775 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:00:54.290996 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:00:55.360493 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:24.364880 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:25.433827 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:26.498453 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:28.385903 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:29.450415 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:39.335079 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:40.448038 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:41.514299 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:43.619463 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:44.698896 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:46.407822 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:51.522455 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:02:57.864911 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:03:03.309062 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:03:06.129416 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:03:13.549094 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:03:15.633457 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 1.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:06.702316 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:08.433171 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:10.273696 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:13.108474 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:15.497299 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:15.773990 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:16.033700 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:18.408300 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:18.707993 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:18.967607 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:19.988573 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:20.307422 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:20.568072 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.200 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:44.808946 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:44.994458 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:46.067278 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:46.648830 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:46.808432 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:46.968889 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:47.128928 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:07:47.288929 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:11:05.061795 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:11:07.237447 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:11:07.397280 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:11:07.557106 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:11:07.716800 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-11-07 12:11:13.006141 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 0.100 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+Gocode pkg: "github.com/bmbstack/backend-math/models"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/wangming/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/wangming/go", InstallSuffix:""}
+Gocode pkg: "github.com/bmbstack/backend-math/models"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/wangming/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/wangming/go", InstallSuffix:""}
+Gocode pkg: "github.com/bmbstack/backend-math/controllers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/wangming/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/wangming/go", InstallSuffix:""}

@@ -1,0 +1,15 @@
+[
+  { "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"} },
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+  { "keys": ["alt+tab"], "command": "indent" },
+  { "keys": ["ctrl+tab"], "command": "unindent" },
+  { "keys": ["shift+tab"], "command": "unindent" },
+  { "keys": ["super+alt+up"], "command": "directional_duplicate_line", "args": {"direction": 1} },
+  { "keys": ["super+alt+down"], "command": "directional_duplicate_line", "args": {"direction": 0} },
+  { "keys": ["shift+super+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+  { "keys": ["cmd+shift+s"], "command": "save_all" },
+  { "keys": ["shift+super+w"], "command": "close_all" },
+  { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["super+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} }
+]

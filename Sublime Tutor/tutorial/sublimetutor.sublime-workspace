@@ -1,0 +1,1528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"option",
+				"option"
+			],
+			[
+				"referral",
+				"referral_code"
+			],
+			[
+				"FREE",
+				"FREE_BOOKINGS_FOR_RECIPIENT"
+			],
+			[
+				"free_bookin",
+				"free_bookings_remaining"
+			],
+			[
+				"free_booking",
+				"free_bookings_credit_used"
+			],
+			[
+				"free_bookings",
+				"free_bookings_remaining"
+			],
+			[
+				"bus",
+				"bus_registration_number"
+			],
+			[
+				"last",
+				"last_bus_stop_departure_time"
+			],
+			[
+				"alighting",
+				"alighting_bus_stop_id"
+			],
+			[
+				"board",
+				"boarding_bus_stop_id"
+			],
+			[
+				"boarding_bus",
+				"boarding_bus_stop_name"
+			],
+			[
+				"prev",
+				"previous_path"
+			],
+			[
+				"crossed",
+				"crossed_bus_stop"
+			],
+			[
+				"current",
+				"current_bus"
+			],
+			[
+				"depar",
+				"departure_time"
+			],
+			[
+				"regi",
+				"registration_number"
+			],
+			[
+				"boarding",
+				"boarding_bus_stop_id"
+			],
+			[
+				"paths",
+				"paths_on_route"
+			],
+			[
+				"destin",
+				"destination_path"
+			],
+			[
+				"source",
+				"source_path"
+			],
+			[
+				"avail",
+				"available"
+			],
+			[
+				"last_bus",
+				"last_bus_stop_path"
+			],
+			[
+				"last_bus_stop",
+				"last_bus_stop_id"
+			],
+			[
+				"update",
+				"update_firebase_entry_for_trip"
+			],
+			[
+				"aligh",
+				"alighting_bus_stop_id"
+			],
+			[
+				"aut",
+				"authenticate_bus_with_token"
+			],
+			[
+				"walki",
+				"walking_directions_to_bus_stop"
+			],
+			[
+				"boardin",
+				"boarding_bus_stop"
+			],
+			[
+				"walking",
+				"walking_direction_from_bus_stop"
+			],
+			[
+				"walk",
+				"walking_direction_from_bus_stop"
+			],
+			[
+				"source_bus",
+				"source_bus_stop_path"
+			],
+			[
+				"destination",
+				"destination"
+			],
+			[
+				"trips",
+				"trips_with_availability"
+			],
+			[
+				"max",
+				"max_occupancy"
+			],
+			[
+				"total",
+				"total_deboarded"
+			],
+			[
+				"alight",
+				"alighting_bus_stop_id"
+			],
+			[
+				"alig",
+				"alighting_bus_stop_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "chapter_2_8.md",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!-- saved from url=(0021)http://estgroupe.com/ -->\n<html id=\"The-EST-Group\" lang=\"zh-CN\" class=\"\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,user-scalable=no\"><title>The EST Group - We design and build: the Future, Baby!</title><link rel=\"icon\" href=\"http://7xs1kx.com1.z0.glb.clouddn.com/assets/img/logo.png\"><link rel=\"stylesheet\" href=\"./team_files/main-7063ca4ecb.css\"><!--[if lt IE 10]><script>alert(\"你的IE浏览器版本过低，请使用其他现代浏览器或至少升级IE版本到10\"),window.location.href=\"http://cdn.dmeng.net/upgrade-your-browser.html?referrer=\"+location.href</script><![endif]--><style id=\"style-1-cropbar-clipper\">/* Copyright 2014 Evernote Corporation. All rights reserved. */\n.en-markup-crop-options {\n    top: 18px !important;\n    left: 50% !important;\n    margin-left: -100px !important;\n    width: 200px !important;\n    border: 2px rgba(255,255,255,.38) solid !important;\n    border-radius: 4px !important;\n}\n\n.en-markup-crop-options div div:first-of-type {\n    margin-left: 0px !important;\n}\n</style><style type=\"text/css\">.fancybox-margin{margin-right:0px;}</style></head><body class=\"mobile\">  <div id=\"head\" class=\"ui page padded grid\"><div class=\"column\"><div class=\"head cf\"><a href=\"http://estgroupe.com/\" class=\"logo hover-rotate\">The EST Group</a> <a id=\"nav-toggle\" href=\"javascript:;\"><span></span><span></span><span></span></a><div class=\"nav deco-a color-transition\"><a data-swiper-class=\"home\" href=\"javascript:;\">主页</a><a data-swiper-class=\"services\" href=\"javascript:;\">服务项目</a><a data-swiper-class=\"team\" href=\"javascript:;\">团队成员</a><a data-swiper-class=\"contact\" href=\"javascript:;\">联系我们</a><a href=\"http://estgroupe.com/projects\">项目案例</a><a class=\"hire-us\" href=\"http://estgroupe.com/tickets/create\">雇佣我们</a></div></div></div></div><div class=\"swiper-container main swiper-container-vertical swiper-container-android\"><div class=\"swiper-wrapper\"><div id=\"banner\" class=\"swiper-slide swiper-slide-active\" style=\"height: 831px;\"><div class=\"ui page padded grid\"><div class=\"column\"><div class=\"intro\"><h1>The EST Group</h1><div class=\"desc cf\"><p id=\"i-wanna-say\">We design and build: the Future ;-)</p><a href=\"javascript:;\" class=\"next background-transition\" title=\"replay\"><i class=\"reply icon\"></i></a></div><div class=\"page-btn\"><a class=\"ui big button teal\" href=\"http://estgroupe.com/tickets/create\">雇佣我们</a></div></div></div></div></div><div id=\"services\" class=\"swiper-slide swiper-slide-next\" style=\"height: 831px;\"><div class=\"ui page padded equal width grid\"><div class=\"center aligned column\"><h2>服务项目</h2></div><div class=\"equal width center aligned row services\"><div class=\"column app\"><i></i><p>手机 App 开发</p></div><div class=\"column website\"><i></i><p>网站开发</p></div><div class=\"column server\"><i></i><p>服务器开发</p></div></div></div><div class=\"ui page padded equal width vertically grid page-btn\"><div class=\"center aligned column\"><a class=\"ui big button\" data-swiper-class=\"projects\" href=\"javascript:;\">项目案例</a><a class=\"ui big button teal\" href=\"http://estgroupe.com/tickets/create\">雇佣我们</a></div></div></div><div id=\"projects\" class=\"swiper-slide\" style=\"height: 831px;\"><div class=\"ui page padded grid\"><div class=\"center aligned column\"><h2>项目案例</h2></div></div><div class=\"ui page padded equal width centered grid\"><div class=\"equal width center aligned three column row projects\">  <div class=\"sixteen wide mobile five wide tablet five wide computer column\"><img data-modal-img=\"\" data-src=\"http://7xs1kx.com1.z0.glb.clouddn.com/uploads/projects/1JtnZjjGPHEsrgl2kVwpvbLyD7UI7piL.jpg\" src=\"./team_files/1JtnZjjGPHEsrgl2kVwpvbLyD7UI7piL.jpg\" alt=\"\"><p class=\"title\"><a href=\"http://www.tianyinzaixian.com/\" target=\"_blank\">天音在线 - 公播系统</a></p><p class=\"desc\">Web, Windows, Android, iOS</p></div>  <div class=\"sixteen wide mobile five wide tablet five wide computer column\"><img data-modal-img=\"\" data-src=\"http://7xs1kx.com1.z0.glb.clouddn.com/uploads/projects/rZPlixtuKTt9P8w5I35HTS8t5MNGSwsc.jpg\" src=\"./team_files/rZPlixtuKTt9P8w5I35HTS8t5MNGSwsc.jpg\" alt=\"\"><p class=\"title\"><a href=\"http://www.kouyujiaoer.com/\" target=\"_blank\">口语角儿 - 英语社交应用</a></p><p class=\"desc\">API, iOS, Android, IM</p></div>  <div class=\"sixteen wide mobile five wide tablet five wide computer column\"><img data-modal-img=\"\" data-src=\"http://7xs1kx.com1.z0.glb.clouddn.com/uploads/projects/8N5tI4urHIeIh7bIlxlwMfcft18JvtOe.jpg\" src=\"./team_files/8N5tI4urHIeIh7bIlxlwMfcft18JvtOe.jpg\" alt=\"\"><p class=\"title\"><a href=\"https://phphub.org/\" target=\"_blank\">PHPHub 开源论坛系统</a></p><p class=\"desc\">Web, Chrome App, iOS, Android</p></div>  <div class=\"sixteen wide mobile five wide tablet five wide computer column\"><img data-modal-img=\"\" data-src=\"http://7xs1kx.com1.z0.glb.clouddn.com/uploads/projects/Qv4ZGttO5eohzaoX5aNhnwFNo7lzvWvy.jpg\" src=\"./team_files/Qv4ZGttO5eohzaoX5aNhnwFNo7lzvWvy.jpg\" alt=\"\"><p class=\"title\"><a href=\"http://medku.com/\" target=\"_blank\">医库网 - 视频网站</a></p><p class=\"desc\">视频网站</p></div>  <div class=\"sixteen wide mobile five wide tablet five wide computer column\"><img data-modal-img=\"\" data-src=\"http://7xs1kx.com1.z0.glb.clouddn.com/uploads/projects/eFVSgd2lQPjBhXXQvuaH7gn6QfVcuoyB.jpg\" src=\"./team_files/eFVSgd2lQPjBhXXQvuaH7gn6QfVcuoyB.jpg\" alt=\"\"><p class=\"title\"><a href=\"http://www.cntraveler.com.cn/\" target=\"_blank\">悦游全球旅行网 - 旅游资讯网站</a></p><p class=\"desc\">Web, Mobile Web, 购物车</p></div>  <div class=\"sixteen wide mobile five wide tablet five wide computer column\"><img data-modal-img=\"\" data-src=\"http://7xs1kx.com1.z0.glb.clouddn.com/uploads/projects/NaB2AlklE0890z5ajNREFb9kSO5H8iiN.jpg\" src=\"./team_files/NaB2AlklE0890z5ajNREFb9kSO5H8iiN.jpg\" alt=\"\"><p class=\"title\"><a href=\"http://bbs.chinadaily.com.cn/\" target=\"_blank\">中国日报 - 论坛，翻吧</a></p><p class=\"desc\">Web, DiscuzX, SSO, Data Migration</p></div>  </div></div><div class=\"ui page padded equal width vertically grid page-btn\"><div class=\"center aligned column\"><a class=\"ui big button\" href=\"http://estgroupe.com/projects\">更多</a></div></div></div><div id=\"team\" class=\"swiper-slide\" style=\"height: 831px;\"><div class=\"ui page padded centered grid\"><div class=\"center aligned row\"><h2>团队成员</h2></div><div class=\"row team\"><div class=\"swiper-container swiper-container-horizontal swiper-container-3d swiper-container-coverflow swiper-container-android\"><div class=\"swiper-wrapper\" style=\"transform: translate3d(-1098px, 0px, 0px); transition-duration: 0ms;\"><div class=\"swiper-slide lgl swiper-slide-duplicate\" data-swiper-slide-index=\"4\" style=\"width: 366px; transform: translate3d(0px, 0px, -300px) rotateX(0deg) rotateY(150deg); z-index: -2; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/SqwvJQddAo4NE3Jap7yzKDRPJuy4REZd.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Pym</p><p class=\"desc\">  前端开发工程师 <br>  视觉和体验设计师 <br>  </p><p class=\"github\"><a href=\"https://github.com/moamaoa\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div>  <div class=\"swiper-slide lgl\" data-swiper-slide-index=\"0\" style=\"width: 366px; transform: translate3d(0px, 0px, -200px) rotateX(0deg) rotateY(100deg); z-index: -1; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/bqgUPy4B5yz3rRTBrOgq59m1D9Ttgg0a.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Summer</p><p class=\"desc\">  产品设计师 <br>  Web 和 移动开发者 <br>  视觉和体验设计师 <br>  </p><p class=\"github\"><a href=\"https://github.com/summerblue\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div>  <div class=\"swiper-slide lgl swiper-slide-prev\" data-swiper-slide-index=\"1\" style=\"width: 366px; transform: translate3d(0px, 0px, -100px) rotateX(0deg) rotateY(50deg); z-index: 0; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/0EKugJsUMnmjhW0vPFMIWwpYALyzON6w.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Monkey</p><p class=\"desc\">  Web 和 移动开发者 <br>  Web 全栈工程师 <br>  架构师 <br>  </p><p class=\"github\"><a href=\"https://github.com/zhengjinghua\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div>  <div class=\"swiper-slide lgl swiper-slide-active\" data-swiper-slide-index=\"2\" style=\"width: 366px; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg); z-index: 1; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/gBhhCwRrswmSX4iEY9qRdkX5w87fS5ZS.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Aufree</p><p class=\"desc\">  Web 全栈工程师 <br>  iOS 开发者 <br>  Windows 开发者 <br>  市场营销 <br>  </p><p class=\"github\"><a href=\"https://github.com/aufree\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div>  <div class=\"swiper-slide lgl swiper-slide-next\" data-swiper-slide-index=\"3\" style=\"width: 366px; transform: translate3d(0px, 0px, -100px) rotateX(0deg) rotateY(-50deg); z-index: 0; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/lihszFEdatQVd8LDrD84Z5v0jpawb8QH.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Kelvin</p><p class=\"desc\">  Web 全栈工程师 <br>  安卓开发者 <br>  </p><p class=\"github\"><a href=\"https://github.com/CycloneAxe\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div>  <div class=\"swiper-slide lgl\" data-swiper-slide-index=\"4\" style=\"width: 366px; transform: translate3d(0px, 0px, -200px) rotateX(0deg) rotateY(-100deg); z-index: -1; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/SqwvJQddAo4NE3Jap7yzKDRPJuy4REZd.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Pym</p><p class=\"desc\">  前端开发工程师 <br>  视觉和体验设计师 <br>  </p><p class=\"github\"><a href=\"https://github.com/moamaoa\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div>  <div class=\"swiper-slide lgl swiper-slide-duplicate\" data-swiper-slide-index=\"0\" style=\"width: 366px; transform: translate3d(0px, 0px, -300px) rotateX(0deg) rotateY(-150deg); z-index: -2; transition-duration: 0ms;\"><div class=\"avatar\" style=\"background-image: url(http://7xs1kx.com1.z0.glb.clouddn.com/uploads/avatars/bqgUPy4B5yz3rRTBrOgq59m1D9Ttgg0a.png?imageView/1/w/300)\"></div><div class=\"caption\"><p class=\"title\">Summer</p><p class=\"desc\">  产品设计师 <br>  Web 和 移动开发者 <br>  视觉和体验设计师 <br>  </p><p class=\"github\"><a href=\"https://github.com/summerblue\" target=\"_blank\"><i class=\"github icon\"></i></a></p></div></div></div><div class=\"swiper-pagination swiper-pagination-clickable swiper-pagination-bullets\"><span class=\"swiper-pagination-bullet\"></span><span class=\"swiper-pagination-bullet\"></span><span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\"></span><span class=\"swiper-pagination-bullet\"></span><span class=\"swiper-pagination-bullet\"></span></div><div class=\"indication\"><i class=\"long arrow left icon animated fadeInRight infinite\"></i></div><div class=\"prev pagenation\"><i class=\"angle left icon\"></i></div><div class=\"next pagenation\"><i class=\"angle right icon\"></i></div></div></div></div></div><div id=\"contact\" class=\"swiper-slide\" style=\"height: 831px;\"><div class=\"ui page padded equal width grid\"><div class=\"center aligned column\"><h2>联系我们</h2></div><div class=\"equal width center aligned row contact\"><div class=\"column ljf\"><a href=\"http://weibo.com/jinfali\" target=\"_blank\"><i class=\"circular weibo huge icon\"><span class=\"animated\"></span></i></a><p class=\"\">李锦发</p></div><div class=\"column email\"><a href=\"mailto:cj@estgroupe.com\"><i class=\"circular mail outline huge icon animated\"></i></a><p class=\"\">cj@estgroupe.com</p></div><div class=\"column githubdaily\"><a href=\"http://weibo.com/GitHubDaily\" target=\"_blank\"><i class=\"circular weibo huge icon\"><span class=\"animated\"></span></i></a><p class=\"\">GitHubDaily</p></div></div></div><div id=\"copy\" class=\"ui page padded grid\"><div class=\"column\">Made with <i class=\"heart icon zoomIn infinite\"></i>by The EST Group<div id=\"language\"><a href=\"javascript:;\" class=\"chinese\"><i class=\"cn flag\"></i>CN</a> <span>|</span> <a href=\"javascript:;\" class=\"english\"><i class=\"gb flag\"></i>EN</a></div></div></div><canvas class=\"particles-js-canvas-el\" width=\"732\" height=\"1662\" style=\"width: 100%; height: 100%;\"></canvas></div></div><div class=\"swiper-pagination swiper-pagination-clickable swiper-pagination-bullets\"><span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\"></span><span class=\"swiper-pagination-bullet\"></span><span class=\"swiper-pagination-bullet\"></span><span class=\"swiper-pagination-bullet\"></span><span class=\"swiper-pagination-bullet\"></span></div></div>  <div id=\"img-viewer\" class=\"ui modal\"><i class=\"close icon\"></i><div class=\"image content\"><div class=\"image\"><img src=\"http://estgroupe.com/\" alt=\"\"></div><div class=\"title deco-a dark\"></div></div></div><div id=\"page-loading\" class=\"ui page dimmer\"><div class=\"content\"><div class=\"center\"><div class=\"ui inverted icon header\"><i class=\"notched circle loading icon\"></i><span></span></div></div></div></div><script async=\"\" src=\"./team_files/analytics.js\"></script><script src=\"./team_files/main-472069c429.js\"></script><script>!function(e,t,n,a,c,i,o){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,i=t.createElement(n),o=t.getElementsByTagName(n)[0],i.async=1,i.src=a,o.parentNode.insertBefore(i,o)}(window,document,\"script\",\"http://7xijlf.com2.z0.glb.qiniucdn.com/js/analytics.js\",\"ga\"),ga(\"create\",\"UA-70965318-3\",\"auto\"),ga(\"send\",\"pageview\")</script></body><div></div></html>",
+			"file": "/Users/wangming/Documents/team.html",
+			"file_size": 14356,
+			"file_write_time": 131104501880000000,
+			"settings":
+			{
+				"buffer_size": 13830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapter_5.md",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "set syntax:mark",
+		"selected_items":
+		[
+			[
+				"set syntax:mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"set synta:mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime tuto",
+				"Sublime Tutor: Start"
+			],
+			[
+				"sublimegit",
+				"SublimeGit: Version"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"fine key ",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packae",
+				"Package Control: Install Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"synta",
+				"Set Syntax: Diff"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"pretty ",
+				"Pretty Ruby: Format"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax git diff",
+				"Set Syntax: SublimeGit Diff"
+			],
+			[
+				"syntax",
+				"Set Syntax: Diff"
+			],
+			[
+				"git b lame",
+				"Git: Blame"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"package remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"syntax diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Diff"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"syntax git",
+				"Set Syntax: SublimeGit Diff"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"gst",
+				"Git: Status"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"subprocess.Popen([executable_path, './Tutorial'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"subprocess.Popen([executable_path, './'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"subprocess([executable_path, './'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"executable_path",
+			"executable_path = app_path+\"Contents/SharedSupport/bin/subl\"",
+			"app_path = executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path = sublime.executable_path()",
+			"subprocess.Popen(['pwd'])",
+			"import subprocess",
+			"sublime.active_window().run_command(\"sublime_tutor_new_window\")",
+			"sublime.active_window().run_command",
+			"sublime.active_window()",
+			"sublime.executable_path()",
+			"subliem.executable_path()",
+			"executable_path[:executable_path.rfind(\".app/\")+5] + \"Contents/SharedSupport/bin/subl\"",
+			"executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path = sublime.executable_path()",
+			"sublime.executable_path().executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path[:executable_path.rfind(\".app/\")+5]",
+			"sublime.executable_path()",
+			"sublime.log_commands(False)",
+			"sublime.open_project",
+			"window.open_project",
+			"window.open_file",
+			"view.run_command(\"select_by_index\")",
+			"window.run_command(\"select_by_index\")",
+			"sublime.select_by_index",
+			"view.run_command(\"example\")",
+			"sublime.run_command(\"example\")",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/Sublime Tutor/tutorial"
+	],
+	"file_history":
+	[
+		"/Users/wangming/Downloads/assets 2/question_list_blockade.html",
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/Sublime Tutor/tutorial/README.md",
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences",
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/Users/wangming/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_15.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/README.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_9.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_13.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_12.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_11.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_8.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_7.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_6.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_5.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_4.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/code/chapter_1.rb",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/tutorial.sublime-completions",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/README.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_6.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_14.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/contents.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/code/chapter_1.rb",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_4.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_6.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_5.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/contents.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_7.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_8.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_10.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_9.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/sublimetutor.sublime-project",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_11.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_12.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_13.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_14.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_15.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_7.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_8.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_4.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_5.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_6.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/README.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/Contents.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/tutorial.sublime-completions",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Tutorial/chapter_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Tutorial/sublimetutor.sublime-project",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default.sublime-commands",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Default.sublime-commands",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/sublime_tutor.py",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Main.sublime-menu",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/SublimeTutor.sublime-commands",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/KeyBindingInspector/KeyBindingListener.py",
+		"/Users/jai/Workspace/sublimetutor/CONTRIBUTORS.md",
+		"/Users/jai/Workspace/sublimetutor/Default (OSX).sublime-keymap",
+		"/Users/jai/Workspace/sublimetutor/Default (Windows).sublime-keymap",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Git.cheatsheet",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/bz2/st2_windows_x32/bz2.pyd",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/bz2/dependency-metadata.json",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/commands.py",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter.py",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/VIM Editor.cheatsheet",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Github Flavored Markdown.cheatsheet",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Go.cheatsheet",
+		"/Users/jai/go/src/github.com/mattermost/platform/config/config.json",
+		"/Users/jai/go/src/github.com/mattermost/platform/docker/local/Dockerfile",
+		"/Users/jai/go/src/github.com/mattermost/platform/web/react/components/navbar_dropdown.jsx",
+		"/etc/hosts",
+		"/Users/jai/Workspace/trevo/app/models/user.rb",
+		"/Users/jai/.bash_profile",
+		"/Users/jai/.profile",
+		"/Users/jai/Workspace/trevo/app/controllers/api/v1/bookings_controller.rb",
+		"/Users/jai/Workspace/trevo/app/controllers/api/v1/feedbacks_controller.rb",
+		"/Users/jai/Workspace/trevo/app/controllers/api/v1/users_controller.rb",
+		"/Users/jai/Workspace/trevo/app/models/free_booking.rb",
+		"/Users/jai/Workspace/trevo/app/controllers/api/v1/free_bookings_controller.rb",
+		"/Users/jai/Workspace/trevo/app/models/referral.rb",
+		"/Users/jai/Workspace/trevo/app/models/trip.rb",
+		"/Users/jai/Workspace/trevo/app/models/booking.rb",
+		"/Users/jai/Workspace/trevo/app/controllers/api/v1/routes_controller.rb",
+		"/Users/jai/mydockerbuild/Dockerfile",
+		"/Users/jai/Workspace/trevo/app/controllers/api/v1/static_controller.rb",
+		"/Users/jai/Workspace/trevo/app/models/route.rb",
+		"/tmp/subl stdin vmCzMl.txt",
+		"/tmp/subl stdin 5NpySG.txt",
+		"/Users/jai/Workspace/trevo/db/migrate/20151015072825_add_default_value_for_free_bookings_credit_used.rb",
+		"/Users/jai/Workspace/trevo/db/migrate/20151008113500_add_free_bookings_credit_used_to_bookings.rb",
+		"/Users/jai/Workspace/trevo/app/serializers/booking_serializer.rb",
+		"/Users/jai/Workspace/trevo/app/serializers/trip_serializer.rb",
+		"/Users/jai/Workspace/trevo/db/schema.rb",
+		"/tmp/subl stdin ECFN5S.txt",
+		"/Users/jai/.bashrc",
+		"/Users/jai/Workspace/trevo/app/admin/driver.rb",
+		"/Users/jai/Workspace/trevo/app/admin/bus.rb",
+		"/Users/jai/Workspace/trevo/app/admin/path.rb",
+		"/Users/jai/Workspace/trevo/app/admin/location.rb",
+		"/Users/jai/Workspace/trevo/app/admin/route.rb",
+		"/Users/jai/Workspace/trevo/app/admin/user.rb",
+		"/Users/jai/Workspace/trevo/app/admin/vendor.rb",
+		"/Users/jai/Workspace/trevo/app/admin/trip.rb",
+		"/Users/jai/Workspace/trevo/app/admin/feedback.rb",
+		"/Users/jai/Workspace/trevo/app/admin/booking.rb",
+		"/Users/jai/Workspace/trevo/config/locales/en.yml",
+		"/Users/jai/Workspace/trevo/config/initializers/parse.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/jai/go/src/github.com/mattermost/platform",
+			"/Users/jai/Workspace/trevo/",
+			"/Users/jai/Workspace/trevo/app/admin",
+			"app/admin",
+			"",
+			"/Users/jai/Workspace/trevo/",
+			"/Users/jai/Workspace/trevo/railsbox",
+			"/Users/jai/Workspace/trevo/",
+			"/Users/jai/Workspace/trevo/app/serializers",
+			"/Users/jai/Workspace/trevo/",
+			"/Users/jai/Workspace/trevo/railsbox/ansible",
+			"/Users/jai/Workspace/market_place_api",
+			"",
+			"/Users/jai/Workspace/trevo/railsbox/",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/db/migrate",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app/views/scheduled_mails",
+			"",
+			"You might find this helpful:",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/config",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad",
+			"",
+			"/Users/jai/Workspace/talentpad/app/",
+			"/Users/jai/Workspace/talentpad/app/assets",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/client,-/Users/jai/Workspace/talentpad/client/.tmp/*",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/client,-/Users/jai/Workspace/talentpad/client/.tmp/*",
+			"/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/client,-/Users/jai/Workspace/talentpad/client/.tmp/*",
+			"/Users/jai/Workspace/talentpad/client,-/Users/jai/Workspace/talentpad/client/.tmp/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/public/client",
+			"/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/client,-/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/,-/Users/jai/Workspace/talentpad/public",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client/",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/app/assets/stylesheets/244809",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client/",
+			"/Users/jai/Workspace/talentpad/client/app/angular",
+			"/Users/jai/Workspace/talentpad/client/angular",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad/app",
+			"/Users/jai/Workspace/talentpad/client",
+			"/Users/jai/Workspace/talentpad",
+			"/Users/jai/Workspace/talentpad_1",
+			"",
+			"*.html",
+			"",
+			"/Users/jai/Workspace/talentpad/public",
+			"",
+			"/Users/jai/Workspace/talentpad/client",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"opponentRightCount",
+			".",
+			"D",
+			"Sublime",
+			"sublime",
+			"tutor[^i]",
+			"tutor ",
+			"Tutorial",
+			"Tutor",
+			"tutor",
+			"Tutor",
+			"sublime",
+			"resources",
+			"^",
+			"phone",
+			"once",
+			"word",
+			"tag",
+			"Goto Anywhere",
+			"Quick",
+			"/",
+			" /",
+			"/ ",
+			"Upper",
+			"⌘ + L",
+			"⌘",
+			"DrMJG_HN ",
+			"line",
+			"word",
+			"lower",
+			"Selecting",
+			"The",
+			"tab",
+			"subprocess",
+			"run",
+			"on_modified",
+			"Invite New Member",
+			"Manage Team",
+			"credit_free_bookings",
+			"status: ",
+			"status: :ok",
+			"credit_free_bookings",
+			"initial_recharge_on_signup",
+			"credit_free_bookings",
+			"referral",
+			"late_by",
+			"booking_status",
+			"NUMBER_OF_CANCELLATION_ALLWED_IN_20_DAY",
+			"get_coordinates_and_distance",
+			"origin_coordinates_and_distance",
+			"cancel",
+			"generic",
+			"discounted_fare",
+			"fare",
+			"QZ696juyQW0suQDv8aGtErj4zVA0jVB3SUu9mpzW",
+			"titleize",
+			"send_message",
+			"free_bookings_credit_used",
+			"discounted_fare",
+			"fare",
+			"recharge_by",
+			"initial_recharge_on_signup",
+			"availability",
+			"bookie",
+			"initial_recharge_on_signup",
+			"credit_free",
+			"credit_free_bookings_for_recipient",
+			"free_booking",
+			"user",
+			"create",
+			"everone",
+			"rating",
+			"name",
+			"csv",
+			"through",
+			"route",
+			"PARSE_SECRET_KEY",
+			"2eEU157b5XiWII7epmV04Tf0Gy3yI1n4dIO3bjHM",
+			"A9R07PtTlX8xcg7iqNKkM36Udo9cyA0ybogg3lwq",
+			"PARSE_APP_ID",
+			"PARSE_SECRET_KEY",
+			"parse",
+			"REFERRER",
+			"FREE",
+			"FreeBooking::FREE_BOOKINGS_FOR_REFERRER",
+			"send_message",
+			"credit_free_bookings",
+			"credit",
+			"referral_code",
+			"debugger",
+			"byebug",
+			"recipient",
+			"deduct_free_bookings",
+			"deduct_free_",
+			"trevoapp.dev",
+			"get_trevoapp.com",
+			"server_name",
+			"server",
+			"server_type",
+			"nginx_unicorn",
+			"referral_code",
+			"3000",
+			"asset_host",
+			"root_url",
+			"3000",
+			"referral_code",
+			"free_bookings",
+			"show",
+			"free_bookings_credited",
+			"referral_code",
+			"passcode",
+			"byebug",
+			"refund_free_bookings",
+			"deduct_free_bookings",
+			"deduct_fare",
+			"bookings",
+			"referral_url",
+			"params_to_send",
+			"short: true",
+			"booking: true",
+			"booking:true",
+			":booking",
+			"options[:booking]",
+			"options[:booking",
+			"booking: true",
+			"helpline_number",
+			"short: true",
+			"short"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Tutor",
+			"Sublime",
+			"Goto Anything",
+			"recipient",
+			"TrevoUtilities",
+			"arrived_at_parking",
+			"full_messages.join(',')",
+			"52.74.85.135",
+			"Driver",
+			"driver",
+			"Driver",
+			"driver",
+			"Bus",
+			"bus",
+			"Bus",
+			"bus",
+			"",
+			"'",
+			"I led this project",
+			"You might find this helpful:",
+			":status => false",
+			":status => true",
+			"angulartics",
+			"192.168.33.10",
+			"0.0.0.0",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "chapter_2_8.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+							"syntax": "Packages/Markdown/MultiMarkdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/wangming/Documents/team.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								857,
+								857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3094.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chapter_5.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimetutor.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"chapt2.2",
+				"chapter_2_2.md"
+			],
+			[
+				"c21",
+				"chapter_2_1.md"
+			],
+			[
+				"c2.md",
+				"chapter_2.md"
+			],
+			[
+				"c1rb",
+				"code/chapter_1.rb"
+			],
+			[
+				"1.",
+				"chapter_1.md"
+			],
+			[
+				"1",
+				"chapter_1.md"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"readme.",
+				"README.md"
+			],
+			[
+				"",
+				"bz2/dependency-metadata.json"
+			],
+			[
+				"keybind",
+				"KeyBindingInspector/KeyBindingListener.py"
+			],
+			[
+				"keyb",
+				"KeyBindingInspector/KeyBindingListener.py"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"feedbackcontr",
+				"app/controllers/api/v1/feedbacks_controller.rb"
+			],
+			[
+				"referral.rb",
+				"app/models/referral.rb"
+			],
+			[
+				"freebookin",
+				"app/models/free_booking.rb"
+			],
+			[
+				"freebookingcontr",
+				"app/controllers/api/v1/free_bookings_controller.rb"
+			],
+			[
+				"usercontr",
+				"app/controllers/api/v1/users_controller.rb"
+			],
+			[
+				"trip.rb",
+				"app/models/trip.rb"
+			],
+			[
+				"route.rb",
+				"app/models/route.rb"
+			],
+			[
+				"bookingcontr",
+				"app/controllers/api/v1/bookings_controller.rb"
+			],
+			[
+				"routecontr",
+				"app/controllers/api/v1/routes_controller.rb"
+			],
+			[
+				"booking.rb",
+				"app/models/booking.rb"
+			],
+			[
+				"static",
+				"app/controllers/api/v1/static_controller.rb"
+			],
+			[
+				"schemar.b",
+				"db/schema.rb"
+			],
+			[
+				"secret",
+				"config/secrets.yml"
+			],
+			[
+				"bookingserial",
+				"app/serializers/booking_serializer.rb"
+			],
+			[
+				"freebookingscredit",
+				"db/migrate/20151015072825_add_default_value_for_free_bookings_credit_used.rb"
+			],
+			[
+				"freebookingcred",
+				"db/migrate/20151008113500_add_free_bookings_credit_used_to_bookings.rb"
+			],
+			[
+				"vagrantfile",
+				"railsbox/development/Vagrantfile"
+			],
+			[
+				"adddefault",
+				"db/migrate/20150820081758_add_default_values_to_booking_attributes.rb"
+			],
+			[
+				"bookingseria",
+				"app/serializers/booking_serializer.rb"
+			],
+			[
+				"routescontr",
+				"app/controllers/api/v1/routes_controller.rb"
+			],
+			[
+				"feedba",
+				"app/admin/feedback.rb"
+			],
+			[
+				"path.rb",
+				"app/admin/path.rb"
+			],
+			[
+				"bus.rb",
+				"app/admin/bus.rb"
+			],
+			[
+				"driver.rb",
+				"app/admin/driver.rb"
+			],
+			[
+				"driver.",
+				"app/admin/driver.rb"
+			],
+			[
+				"feedback.",
+				"app/admin/feedback.rb"
+			],
+			[
+				"booking",
+				"app/admin/booking.rb"
+			],
+			[
+				"secret.",
+				"config/secrets.yml"
+			],
+			[
+				".yml",
+				"config/locales/en.yml"
+			],
+			[
+				"en.ym",
+				"config/locales/en.yml"
+			],
+			[
+				"freebooking.rb",
+				"app/models/free_booking.rb"
+			],
+			[
+				"freebookingcont",
+				"app/controllers/api/v1/free_bookings_controller.rb"
+			],
+			[
+				"referralcontr",
+				"app/controllers/api/v1/referrals_controller.rb"
+			],
+			[
+				"reffer",
+				"db/migrate/20151014084146_add_referrer_credited_to_referrals.rb"
+			],
+			[
+				"schema.rb",
+				"db/schema.rb"
+			],
+			[
+				"referral",
+				"app/models/referral.rb"
+			],
+			[
+				"gettrevo",
+				"railsbox/ansible/roles/nginx/templates/get_trevoapp.conf.j2"
+			],
+			[
+				"gettrev",
+				"railsbox/ansible/roles/nginx/templates/get_trevoapp.conf.j2"
+			],
+			[
+				"unicorn.con",
+				"railsbox/ansible/roles/nginx/templates/nginx_unicorn.conf.j2"
+			],
+			[
+				"nginxunico",
+				"railsbox/ansible/roles/nginx/templates/nginx_unicorn.conf.j2"
+			],
+			[
+				"nginxconf",
+				"railsbox/ansible/roles/nginx/templates/nginx.conf.j2"
+			],
+			[
+				"userseria",
+				"app/serializers/user_serializer.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"freebookings",
+				"app/serializers/free_booking_serializer.rb"
+			],
+			[
+				"freebookingscon",
+				"app/controllers/api/v1/free_bookings_controller.rb"
+			],
+			[
+				"referralseria",
+				"app/serializers/referral_serializer.rb"
+			],
+			[
+				"userserializer",
+				"app/serializers/user_serializer.rb"
+			],
+			[
+				"wallettransactionser",
+				"app/serializers/wallet_transaction_serializer.rb"
+			],
+			[
+				"applicationcontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"freebooking",
+				"app/models/free_booking.rb"
+			],
+			[
+				"freebookingser",
+				"app/serializers/free_booking_serializer.rb"
+			],
+			[
+				"freebookingscontr",
+				"app/controllers/api/v1/free_bookings_controller.rb"
+			],
+			[
+				"trevo.rake",
+				"lib/tasks/trevo.rake"
+			],
+			[
+				"bookingcontroller",
+				"app/controllers/api/v1/bookings_controller.rb"
+			],
+			[
+				"referralcon",
+				"app/controllers/api/v1/referrals_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"location.rb",
+				"app/models/location.rb"
+			],
+			[
+				"referralscontr",
+				"app/controllers/api/v1/referrals_controller.rb"
+			],
+			[
+				"freebookingseri",
+				"app/serializers/free_booking_serializer.rb"
+			],
+			[
+				"freeb",
+				"app/models/free_booking.rb"
+			],
+			[
+				"bookingfreebooking",
+				"db/migrate/20151008130311_create_bookings_free_bookings.rb"
+			],
+			[
+				"bookingfree",
+				"app/models/bookings_free_booking.rb"
+			],
+			[
+				"bookingsfree",
+				"db/migrate/20151008130311_create_bookings_free_bookings.rb"
+			],
+			[
+				"renamefree",
+				"db/migrate/20151008125554_rename_free_bookings_to_promotions.rb"
+			],
+			[
+				"bookingscontr",
+				"app/controllers/api/v1/bookings_controller.rb"
+			],
+			[
+				"freebookingscontroller",
+				"app/controllers/api/v1/free_bookings_controller.rb"
+			],
+			[
+				"busserializer",
+				"app/serializers/bus_serializer.rb"
+			],
+			[
+				"freebookingseria",
+				"app/serializers/free_booking_serializer.rb"
+			],
+			[
+				"freebookings.rb",
+				"spec/models/free_booking_spec.rb"
+			],
+			[
+				"addfreebookings",
+				"db/migrate/20151008113500_add_free_bookings_credit_used_to_bookings.rb"
+			],
+			[
+				"addfreebooking",
+				"db/migrate/20151008110423_add_free_bookings_credit_used_to_bookings.rb"
+			],
+			[
+				"addfrees",
+				"db/migrate/20151008110423_add_frees_trip_credit_used_to_bookings.rb"
+			],
+			[
+				"addbooking",
+				"db/migrate/20151008110423_add_frees_trip_credit_used_to_bookings.rb"
+			],
+			[
+				"createreferr",
+				"db/migrate/20151008110827_create_referrals.rb"
+			],
+			[
+				"createbooking",
+				"db/migrate/20150819092129_create_bookings.rb"
+			],
+			[
+				"referralcode",
+				"db/migrate/20151008081112_add_referral_code_to_users.rb"
+			],
+			[
+				"add",
+				"db/migrate/20150828142243_add_devise_to_buses.rb"
+			],
+			[
+				"applicationcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"parkingsequence",
+				"app/models/parking_sequence.rb"
+			],
+			[
+				"drivercontr",
+				"app/controllers/api/v1/drivers_controller.rb"
+			],
+			[
+				"parameter",
+				"app/models/parameter.rb"
+			],
+			[
+				"feedback.rb",
+				"app/models/feedback.rb"
+			],
+			[
+				"hasnfc",
+				"db/migrate/20151007061805_add_has_ble_and_has_nfc_to_users.rb"
+			],
+			[
+				"driversess",
+				"app/controllers/api/v1/driver_sessions_controller.rb"
+			],
+			[
+				"userserial",
+				"app/serializers/user_serializer.rb"
+			],
+			[
+				"staticcont",
+				"app/controllers/api/v1/static_controller.rb"
+			],
+			[
+				"logout",
+				"app/workers/logout_drivers_worker.rb"
+			],
+			[
+				"driversession",
+				"app/controllers/api/v1/driver_sessions_controller.rb"
+			],
+			[
+				"smswor",
+				"app/workers/send_sms_worker.rb"
+			],
+			[
+				"removeuniqu",
+				"db/migrate/20151005140605_remove_uniq_index_from_buses.rb"
+			],
+			[
+				"session",
+				"app/controllers/api/v1/sessions_controller.rb"
+			],
+			[
+				"sendsms",
+				"app/workers/send_sms_worker.rb"
+			],
+			[
+				"bussession",
+				"app/controllers/api/v1/bus_sessions_controller.rb"
+			],
+			[
+				"routescont",
+				"app/controllers/api/v1/routes_controller.rb"
+			],
+			[
+				"sess",
+				"app/controllers/api/v1/sessions_controller.rb"
+			],
+			[
+				"trip",
+				"app/admin/trip.rb"
+			],
+			[
+				"routecont",
+				"app/controllers/api/v1/routes_controller.rb"
+			],
+			[
+				"authe",
+				"app/controllers/concerns/authenticable.rb"
+			],
+			[
+				"buscontr",
+				"app/controllers/api/v1/buses_controller.rb"
+			],
+			[
+				"authent",
+				"app/controllers/concerns/authenticable.rb"
+			],
+			[
+				"buscontro",
+				"app/controllers/api/v1/buses_controller.rb"
+			],
+			[
+				"isactivedri",
+				"db/migrate/20151003112122_add_is_active_to_drivers.rb"
+			],
+			[
+				"isactive",
+				"db/migrate/20151003104401_add_is_active_to_buses.rb"
+			],
+			[
+				"paymentcontr",
+				"app/controllers/api/v1/payments_controller.rb"
+			],
+			[
+				"payment.rb",
+				"app/models/payment.rb"
+			],
+			[
+				"bussessions",
+				"app/controllers/api/v1/bus_sessions_controller.rb"
+			],
+			[
+				"book",
+				"app/models/booking.rb"
+			],
+			[
+				"capturepaym",
+				"app/workers/capture_payment_worker.rb"
+			],
+			[
+				"paymentcon",
+				"app/controllers/api/v1/payments_controller.rb"
+			],
+			[
+				"recharge",
+				"app/models/recharge.rb"
+			],
+			[
+				"wallettransa",
+				"app/models/wallet_transaction.rb"
+			],
+			[
+				"bussess",
+				"app/controllers/api/v1/bus_sessions_controller.rb"
+			],
+			[
+				"worker",
+				"app/workers/schedule_trips_worker.rb"
+			],
+			[
+				"authentc",
+				"app/controllers/concerns/authenticable.rb"
+			],
+			[
+				"busescontr",
+				"app/controllers/api/v1/buses_controller.rb"
+			],
+			[
+				"pathseria",
+				"app/serializers/path_serializer.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bar1"
+			]
+		],
+		"width": 558.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
